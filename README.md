@@ -47,8 +47,7 @@ option:{
 ```
 ---
 # 接口文档
-| 请求地址 | 请求方式 | 请求参数 | 响应结果 |  
-
+| 请求地址 | 请求方式 | 请求参数 | 响应结果 |
 |:-:|:-:|:-:|:-:|  
 | /api/register | POST | username,password | status,msg |   
 | /api/login | POST | username,password | status,msg,token |
