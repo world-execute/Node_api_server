@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bcryptjs" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/bcryptjs" />
+        <item url="file://$PROJECT_DIR$/node_modules/bcryptjs/bin" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/bcryptjs" />
+      <root url="file://$PROJECT_DIR$/node_modules/bcryptjs/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

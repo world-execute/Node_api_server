@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="hapi" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/@hapi" />
+        <item url="file://$PROJECT_DIR$/node_modules/joi" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/@hapi" />
+      <root url="file://$PROJECT_DIR$/node_modules/joi" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
