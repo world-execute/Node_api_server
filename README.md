@@ -48,15 +48,11 @@ option:{
 ---
 # 接口文档
 | 请求地址 | 请求方式 | 请求参数 | 响应结果 |  
-<<<<<<< HEAD
+
 |:-:|:-:|:-:|:-:|  
 | /api/register | POST | username,password | status,msg |   
 | /api/login | POST | username,password | status,msg,token |
 
-=======
-|:-:|:-:|:-:|:-:|
-| /api/register | POST | username,password | status,msg |
->>>>>>> 7fe514e101ef8a51e41917defedb6524c7f2636e
 
 ## 闲话
 推荐个API测试软件(没恰饭),就是国产的<kbd>Apifox</kbd>,相比postman优点就是可以写对应的数据模型,自动生成数据,还能导出接口文档,爱了  
